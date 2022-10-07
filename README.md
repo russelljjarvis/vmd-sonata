@@ -10,5 +10,5 @@ issues are welcomed. We expect to address them promptly, pull requests will vett
 
 ## Networks
 
-This is a small network sampled from the 45,000 mouse V1 Layer 4 model: https://portal.brain-map.org/explore/models/l4-mv1. Not
+This is a sampled from the 45,000 mouse V1 Layer 4 model: https://portal.brain-map.org/explore/models/l4-mv1. Not
 including the feedforward inputs.
